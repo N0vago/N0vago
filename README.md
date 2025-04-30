@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @N0vago
+- 👋 Hi, I’m Gleb
 - 👀 I’m interested in video game development
-- 🌱 I’m currently learning how to work in Unreal Engine 5 by using Blueprints and C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://vk.com/n0vago, https://www.instagram.com/n0vago/, gleb3101@mail.ru
+- 🌱 Mostly develop games on Unity and also have a few tries on UE5
+- 📫 How to reach me: glebissayev.fw@gmail.com
 
 <!---
 N0vago/N0vago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
